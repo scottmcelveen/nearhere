@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nearhere.Droid", "Droid\nea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nearhere.MobileAppService", "MobileAppService\nearhere.MobileAppService.csproj", "{9A3A7AA4-D7E4-4D81-821B-D918529653B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|iPhoneSimulator = Debug|iPhoneSimulator
@@ -55,5 +57,17 @@ Global
 		{9A3A7AA4-D7E4-4D81-821B-D918529653B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A3A7AA4-D7E4-4D81-821B-D918529653B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A3A7AA4-D7E4-4D81-821B-D918529653B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|iPhone.Build.0 = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D074A3E1-7CA1-467A-8EC9-6DFC0AD3FD2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
