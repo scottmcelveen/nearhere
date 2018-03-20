@@ -14,12 +14,12 @@ namespace nearhere
             items = new List<Item>();
             var mockItems = new List<Item>
             {
-                new Item { Id = Guid.NewGuid().ToString(), Text = "First item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Second item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Third item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fourth item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Fifth item", Description="This is an item description." },
-                new Item { Id = Guid.NewGuid().ToString(), Text = "Sixth item", Description="This is an item description." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Andrew Thompson", Description="25 Male, Belfast" },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Brenda Nelson", Description="32 Female, Newtownards." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Chris Davidson", Description="31 Male, Bangor." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Dean Smith", Description="29 Male, Holywood." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Ernie Rogers", Description="27 Male, Coleraine." },
+                new Item { Id = Guid.NewGuid().ToString(), Text = "Francesca Mitchell", Description="26 Female, Enniskillen." },
             };
 
             foreach (var item in mockItems)
